@@ -6,7 +6,7 @@ namespace HackerRankPractice
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            FileSelection fileSelection = new FileSelection();
         }
     }
 }
