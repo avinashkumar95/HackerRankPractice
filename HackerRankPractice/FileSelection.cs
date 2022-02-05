@@ -8,7 +8,8 @@ namespace HackerRankPractice
         //the other class object
         public FileSelection()
         {
-            FunnyString funnyString = new FunnyString();
+            //FunnyString funnyString = new FunnyString();
+            GemStone gemStone = new GemStone();
         }
     }
 }
