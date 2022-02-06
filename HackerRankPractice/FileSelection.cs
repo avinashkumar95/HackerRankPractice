@@ -9,7 +9,9 @@ namespace HackerRankPractice
         public FileSelection()
         {
             //FunnyString funnyString = new FunnyString();
-            GemStone gemStone = new GemStone();
+            //GemStone gemStone = new GemStone();
+            GradingStudent gradingStudent = new GradingStudent();
+            AppleAndOrange appleAndOrange = new AppleAndOrange();
         }
     }
 }

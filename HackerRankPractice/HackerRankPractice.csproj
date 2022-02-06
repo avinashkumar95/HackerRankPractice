@@ -35,6 +35,8 @@
     <Compile Include="FunnyString.cs" />
     <Compile Include="FileSelection.cs" />
     <Compile Include="GemStone.cs" />
+    <Compile Include="GradingStudent.cs" />
+    <Compile Include="AppleAndOrange.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
